@@ -3,8 +3,8 @@ package proyectopokemon;
 public class Pokemon {
 
     String Name;
-    int Hp;
-    int att;
+    private int Hp;
+    private int att;
 
     public Pokemon(String Name, int Hp, int att) {
         this.Name = Name;
