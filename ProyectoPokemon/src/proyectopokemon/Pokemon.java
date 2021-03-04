@@ -2,7 +2,7 @@ package proyectopokemon;
 
 public class Pokemon {
 
-    String Name;
+    private String Name;
     private int Hp;
     private int att;
 
